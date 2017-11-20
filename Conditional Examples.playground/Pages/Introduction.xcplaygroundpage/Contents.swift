@@ -14,5 +14,7 @@ Programmers need to tell the computer how to *respond to events*.
  
  If you do not see any output, remember to turn on the Assistant Editor, and then click the menu to switch to the Timeline:
  
- ![timeline](timeline.png "Timeline")
- */
+![timeline](timeline.png "Timeline")
+*/
+
+

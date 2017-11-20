@@ -40,13 +40,21 @@ if favouriteSubject == "Math" && disposition == "Cheerful" {
 }
 
 //: You can combine *more than* two conditions with boolean operators if you want:
-let manners = "excellent"
+let manners = "poor"
 let effort = "high"
 let nature = "kind"
 
 if manners == "excellent" && effort == "high" && nature == "kind" {
     print("Must attend the Grove!")
 }
+
+// EXAMPLE: Using the OR operator
+let grade = 7
+if grade == 7 || grade == 8 {
+    print("You must be a middle schooler")}
+if grade == 9 || grade == 10 || grade == 11 || grade == 12 {
+    print("You must be in high school.")}
+
 
 
 //: **NOTE:** Output will show up in the Debug area.
